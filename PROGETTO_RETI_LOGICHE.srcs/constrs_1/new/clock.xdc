@@ -1,0 +1,1 @@
+create_clock -period 100 -name clock [get_ports i_clk];
